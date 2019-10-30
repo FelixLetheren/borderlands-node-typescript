@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/FelixLetheren/borderlands-node-typescript#readme",
   "dependencies": {
+    "@types/cors": "^2.8.6",
+    "@types/mongodb": "^3.3.7",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongodb": "^3.3.3"
   },
