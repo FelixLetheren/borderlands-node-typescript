@@ -1,0 +1,28 @@
+{
+  "name": "borderlands-node-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixLetheren/borderlands-node-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelixLetheren/borderlands-node-typescript/issues"
+  },
+  "homepage": "https://github.com/FelixLetheren/borderlands-node-typescript#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  }
+}
